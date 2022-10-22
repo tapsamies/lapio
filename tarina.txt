@@ -1,9 +1,6 @@
 lörs lärä
 liiba laaba
 ristus notta
-<<<<<<< Updated upstream
 molin käymäs kuusessa
-=======
 molin käymäs kuus
 laaaba lii
->>>>>>> Stashed changes
